@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ponko2/laravel-elixir-jshint.git"
+    "url": "https://github.com/nckg/laravel-elixir-jshint"
   },
   "keywords": [
     "laravel",
@@ -17,39 +17,16 @@
     "gulp"
   ],
   "author": {
-    "name": "Takahito Nakano"
+    "name": "Nick Goris"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ponko2/laravel-elixir-jshint/issues"
+    "url": "https://github.com/nckg/laravel-elixir-jshint/issues"
   },
-  "homepage": "https://github.com/ponko2/laravel-elixir-jshint",
+  "homepage": "https://github.com/nckg/laravel-elixir-jshint",
   "dependencies": {
     "gulp-jshint": "^1.8.6",
     "gulp-notify": "^2.0.0",
     "jshint-stylish": "^1.0.0"
-  },
-  "gitHead": "a4ed89b44d6f1c7a040d0d8d99e1f330a94a14c1",
-  "_id": "laravel-elixir-jshint@0.1.7",
-  "_shasum": "e4d01ae4c9fd8bb6eda7e6e08f27d40a94a5d626",
-  "_from": "laravel-elixir-jshint@>=0.1.7 <0.2.0",
-  "_npmVersion": "2.7.5",
-  "_nodeVersion": "0.12.2",
-  "_npmUser": {
-    "name": "ponko2",
-    "email": "kano@ponko2.jp"
-  },
-  "maintainers": [
-    {
-      "name": "ponko2",
-      "email": "kano@ponko2.jp"
-    }
-  ],
-  "dist": {
-    "shasum": "e4d01ae4c9fd8bb6eda7e6e08f27d40a94a5d626",
-    "tarball": "http://registry.npmjs.org/laravel-elixir-jshint/-/laravel-elixir-jshint-0.1.7.tgz"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/laravel-elixir-jshint/-/laravel-elixir-jshint-0.1.7.tgz",
-  "readme": "ERROR: No README data found!"
+  }
 }
